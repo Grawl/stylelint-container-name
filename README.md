@@ -1,5 +1,7 @@
 # stylelint-container-name
 
+[![Npm version](https://img.shields.io/npm/v/stylelint-container-name.svg)](https://www.npmjs.com/package/stylelint-container-name)
+
 Stylelint rule for [`container-name`](https://developer.mozilla.org/en-US/docs/Web/CSS/container-name) property
 
 ## Installation
