@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "skipLibCheck": false,
+    "strict": true,
+    "module": "Node16",
+    "moduleResolution": "Node",
+    "isolatedModules": true,
+    "outDir": "dist"
+  },
+  "include": ["src", "./*.js"]
+}

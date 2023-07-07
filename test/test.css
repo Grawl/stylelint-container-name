@@ -1,0 +1,8 @@
+.named {
+	container-name: card;
+	container-type: inline-size;
+}
+
+.anonymous {
+	container-type: inline-size;
+}

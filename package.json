@@ -1,0 +1,49 @@
+{
+  "name": "stylelint-container-name",
+  "version": "0.1.0",
+  "description": "Stylelint rule for container-name property",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "stylelint": "stylelint test",
+    "test": "tsc --noEmit"
+  },
+  "keywords": [
+    "stylelint-plugin",
+    "stylelint",
+    "css",
+    "container-name",
+    "container query",
+    "container queries"
+  ],
+  "author": {
+    "name": "Daniil Pronin",
+    "email": "mail@grawl.ru",
+    "url": "https://grawl.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Grawl/stylelint-container-name.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-rule-creator": "^5.1.0"
+  },
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.1.1",
+    "@types/node": "^20.4.0",
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
+    "@typescript-eslint/parser": "^5.61.0",
+    "eslint": "^8.44.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-standard-with-typescript": "^36.0.0",
+    "eslint-define-config": "^1.21.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "postcss": "^8.4.25",
+    "prettier": "^2",
+    "stylelint": "^15.10.1",
+    "typescript": "^5.1.6"
+  }
+}

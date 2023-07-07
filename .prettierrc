@@ -1,0 +1,16 @@
+{
+    "printWidth": 100,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "semi": false,
+    "arrowParens": "always",
+    "useTabs": true,
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "importOrderGroupNamespaceSpecifiers": true,
+    "importOrderCaseInsensitive": true,
+    "importOrder": [
+        "<THIRD_PARTY_MODULES>",
+        "^[./]"
+    ]
+}
